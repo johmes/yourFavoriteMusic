@@ -1,0 +1,106 @@
+{
+    "African": {
+        "Id": 0,
+        "Rank": 1400
+    },
+    "Asian": {
+        "Id": 1,
+        "Rank": 1400
+    },
+    "South and southeast Asian": {
+        "Id": 2,
+        "Rank": 1400
+    },
+    "Avant-garde": {
+        "Id": 3,
+        "Rank": 1400
+    },
+    "Blues": {
+        "Id": 4,
+        "Rank": 1400
+    },
+    "Caribbean and Caribbean-influenced": {
+        "Id": 5,
+        "Rank": 1400
+    },
+    "Country": {
+        "Id": 6,
+        "Rank": 1400
+    },
+    "Easy listening": {
+        "Id": 7,
+        "Rank": 1400
+    },
+    "Electronic": {
+        "Id": 8,
+        "Rank": 1400
+    },
+    "Folk": {
+        "Id": 9,
+        "Rank": 1400
+    },
+    "Hip hop": {
+        "Id": 10,
+        "Rank": 1400
+    },
+    "Jazz": {
+        "Id": 11,
+        "Rank": 1400
+    },
+    "Latin": {
+        "Id": 12,
+        "Rank": 1400
+    },
+    "Rap": {
+        "Id": 13,
+        "Rank": 1400
+    },
+    "K-pop": {
+        "Id": 14,
+        "Rank": 1400
+    },
+    "Classical": {
+        "Id": 15,
+        "Rank": 1400
+    },
+    "Soul": {
+        "Id": 16,
+        "Rank": 1400
+    },
+    "Funk": {
+        "Id": 17,
+        "Rank": 1400
+    },
+    "Punk": {
+        "Id": 18,
+        "Rank": 1400
+    },
+    "Western Pop": {
+        "Id": 19,
+        "Rank": 1400
+    },
+    "R&B and soul": {
+        "Id": 20,
+        "Rank": 1400
+    },
+    "Rock": {
+        "Id": 21,
+        "Rank": 1400
+    },
+    "Gospel": {
+        "Id": 22,
+        "Rank": 1400
+    },
+    "Arabic": {
+        "Id": 23,
+        "Rank": 1400
+    },
+    "Lo-Fi": {
+        "Id": 24,
+        "Rank": 1400
+    },
+    "Movie Score": {
+        "Id": 25,
+        "Rank": 1400
+    }
+}
